@@ -1,0 +1,3 @@
+services:
+  radarr4k:
+    network_mode: ${RADARR4K_NETWORK_MODE}

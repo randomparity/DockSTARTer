@@ -1,0 +1,4 @@
+services:
+  radarr4k:
+    ports:
+      - ${RADARR4K_PORT_7878}:7878

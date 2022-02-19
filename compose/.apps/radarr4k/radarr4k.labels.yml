@@ -1,0 +1,9 @@
+services:
+  radarr4k:
+    labels:
+      com.dockstarter.appinfo.deprecated: "false"
+      com.dockstarter.appinfo.description: "Automatically download 4K movies via Usenet and BitTorrent"
+      com.dockstarter.appinfo.nicename: "Radarr4K"
+      com.dockstarter.appvars.radarr4k_enabled: "false"
+      com.dockstarter.appvars.radarr4k_network_mode: ""
+      com.dockstarter.appvars.radarr4k_port_7878: "7878"
