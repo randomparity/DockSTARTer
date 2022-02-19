@@ -1,0 +1,8 @@
+services:
+  authelia:
+    labels:
+      com.dockstarter.appinfo.deprecated: "false"
+      com.dockstarter.appinfo.description: "Authentication server including 2FA support"
+      com.dockstarter.appinfo.nicename: "Authelia"
+      com.dockstarter.appvars.authelia_enabled: "false"
+      com.dockstarter.appvars.authelia_network_mode: ""

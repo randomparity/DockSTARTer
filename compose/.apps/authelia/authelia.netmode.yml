@@ -1,0 +1,3 @@
+services:
+  authelia:
+    network_mode: ${AUTHELIA_NETWORK_MODE}
